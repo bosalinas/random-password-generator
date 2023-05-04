@@ -119,10 +119,3 @@ function getPasswordOptions() {
 let upperCharChoice = confirm("Include uppercase chars in your password?");
 let lowerCharChoice = confirm("Include lowercase chars in your password?");
 console.log(person, numberChoice, upperCasedCharacters, lowerCasedCharacters)  // --> (true, true, true, true)
-
-
-
-
-
-
-
