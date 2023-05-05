@@ -10,3 +10,6 @@
 
 ## Images:
   ![Password generator webdocument](./Assests/password-generator-image.png)
+  
+## Github Page
+  [Github page](https://bosalinas.github.io/random-password-generator/)
